@@ -1,0 +1,119 @@
+Microsoft Windows [Versión 10.0.19044.2364]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\Admin>cd desktop
+
+C:\Users\Admin\Desktop>git clone https://github.com/Lozma88/mi-primer-repositorio.git
+Cloning into 'mi-primer-repositorio'...
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 7 (delta 1), reused 3 (delta 0), pack-reused 0
+Receiving objects: 100% (7/7), done.
+Resolving deltas: 100% (1/1), done.
+
+C:\Users\Admin\Desktop>cd mi-primer-repositorio
+
+C:\Users\Admin\Desktop\mi-primer-repositorio>git add .
+
+C:\Users\Admin\Desktop\mi-primer-repositorio>git commit -m"Modificacion de Zaid"
+[main 7f375f2] Modificacion de Zaid
+ 1 file changed, 1 insertion(+)
+ create mode 100644 holi.txt
+
+C:\Users\Admin\Desktop\mi-primer-repositorio>git push
+remote: Permission to Lozma88/mi-primer-repositorio.git denied to ZaidP6.
+fatal: unable to access 'https://github.com/Lozma88/mi-primer-repositorio.git/': The requested URL returned error: 403
+
+C:\Users\Admin\Desktop\mi-primer-repositorio>git add .
+
+C:\Users\Admin\Desktop\mi-primer-repositorio>git commit -m"Modificacion de Zaid"
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\Users\Admin\Desktop\mi-primer-repositorio>git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 361 bytes | 361.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Lozma88/mi-primer-repositorio.git
+   2240222..7f375f2  main -> main
+
+C:\Users\Admin\Desktop\mi-primer-repositorio>cd
+C:\Users\Admin\Desktop\mi-primer-repositorio
+
+C:\Users\Admin\Desktop\mi-primer-repositorio>ls
+"ls" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\Admin\Desktop\mi-primer-repositorio>cmdlet
+"cmdlet" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\Admin\Desktop\mi-primer-repositorio>directorio
+"directorio" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\Admin\Desktop\mi-primer-repositorio>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: A87C-4DEF
+
+ Directorio de C:\Users\Admin\Desktop\mi-primer-repositorio
+
+10/01/2023  09:17    <DIR>          .
+10/01/2023  09:17    <DIR>          ..
+10/01/2023  09:17                25 holi.txt
+10/01/2023  09:14                 0 ipokm.txt
+10/01/2023  09:14             7.169 LICENSE
+10/01/2023  09:14                62 README.md
+               4 archivos          7.256 bytes
+               2 dirs  170.298.556.416 bytes libres
+
+C:\Users\Admin\Desktop\mi-primer-repositorio>cd ..
+
+C:\Users\Admin\Desktop>s:
+El sistema no puede encontrar el controlador especificado.
+
+C:\Users\Admin\Desktop> git clone https://github.com/ZaidP6/mi-primer-repositorio2.git
+Cloning into 'mi-primer-repositorio2'...
+fatal: unable to access 'https://github.com/ZaidP6/mi-primer-repositorio2.git/': Could not resolve host: github.com
+
+C:\Users\Admin\Desktop>git clone https://github.com/ZaidP6/mi-primer-repositorio2.git
+Cloning into 'mi-primer-repositorio2'...
+fatal: unable to access 'https://github.com/ZaidP6/mi-primer-repositorio2.git/': Could not resolve host: github.com
+
+C:\Users\Admin\Desktop>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: A87C-4DEF
+
+ Directorio de C:\Users\Admin\Desktop
+
+10/01/2023  09:29    <DIR>          .
+10/01/2023  09:29    <DIR>          ..
+16/12/2022  13:45    <DIR>          1DAM
+19/09/2022  09:55             1.089 Eclipse IDE for Enterprise Java and Web Developers - 2022-09.lnk
+15/11/2022  20:40    <DIR>          Fuentes
+13/10/2022  07:13               946 GIMP 2.10.12.lnk
+10/01/2023  09:17    <DIR>          mi-primer-repositorio
+24/10/2022  08:05             2.392 Persona 1 - Chrome.lnk
+03/11/2022  10:13             2.132 pgAdmin 4.lnk
+20/09/2022  11:18             1.404 Visual Studio Code.lnk
+               5 archivos          7.963 bytes
+               5 dirs  170.301.014.016 bytes libres
+
+C:\Users\Admin\Desktop>git clone https://github.com/ZaidP6/mi-primer-repositorio2.git
+Cloning into 'mi-primer-repositorio2'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 3 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), done.
+
+C:\Users\Admin\Desktop>
+
+
